@@ -1,14 +1,10 @@
 ## App Name: hello_world
 
 ### App Description
-`TODO://` This is the prework intro project for the Android App Development Course and it is the very first Android application that I have developed.
+This is the prework intro project for the Android App Development Course and it is the very first Android application that I have developed.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src=http://g.recordit.co/8FaI1VnC88.gif width=200><br>
-
-`TODO://`
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
